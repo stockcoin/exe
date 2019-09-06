@@ -6,3 +6,5 @@
     3.click Debug window
     4.click Console
     5.Type the command: setgenerate true
+
+    Then,your computer starts mining
